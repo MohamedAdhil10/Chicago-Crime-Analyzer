@@ -1,0 +1,82 @@
+Chicago Crime Analysis Summary Report
+========================================
+
+1. Top 10 Crime Types:
+Primary Type
+THEFT                  112764
+BATTERY                100995
+CRIMINAL DAMAGE         60214
+ASSAULT                 40046
+NARCOTICS               39571
+MOTOR VEHICLE THEFT     37214
+OTHER OFFENSE           33883
+BURGLARY                23372
+DECEPTIVE PRACTICE      22607
+ROBBERY                 21066
+
+2. Yearly Crime Trends:
+Year
+2001    337034
+2002      1024
+2003       930
+2004       731
+2005       754
+2006       764
+2007       735
+2008       858
+2009       803
+2010       718
+2011       677
+2012       751
+2013       688
+2014       680
+2015       805
+2016      1120
+2017      1045
+2018      1097
+2019       957
+2020      1605
+2021      1980
+2022      4141
+2023     88504
+2024     99925
+
+3. Top 10 Crime Hotspots:
+Location Description
+STREET                            166056
+RESIDENCE                          90195
+APARTMENT                          58759
+SIDEWALK                           30151
+OTHER                              14865
+ALLEY                              12827
+SMALL RETAIL STORE                 11671
+PARKING LOT/GARAGE(NON.RESID.)     11234
+RESTAURANT                          9328
+DEPARTMENT STORE                    8377
+
+4. Arrest Rates by Year (%):
+Year
+2001    29.518090
+2002    48.242188
+2003    47.419355
+2004    46.785226
+2005    43.633952
+2006    43.717277
+2007    42.448980
+2008    37.995338
+2009    38.605230
+2010    37.604457
+2011    37.518464
+2012    38.615180
+2013    35.174419
+2014    35.147059
+2015    33.788820
+2016    30.357143
+2017    25.837321
+2018    28.167730
+2019    24.346917
+2020    26.479751
+2021    25.909091
+2022    15.793287
+2023    12.138434
+2024    13.296973
